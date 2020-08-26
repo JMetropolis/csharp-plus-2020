@@ -9,7 +9,6 @@ namespace Session02exercise01
             Console.WriteLine("Hej världen!");
             Console.WriteLine("Hello World!");
 
-
             var integer = 0;
             string stringvalue = "myStringValue";
 
