@@ -10,7 +10,7 @@ namespace Session02exercise01
 
             string stringvalue = "myStringValue";
 
-                Console.WriteLine("The value of stringvalue is" + stringvalue);
+            Console.WriteLine("The value of stringvalue is" + stringvalue);
         }
     }
 }
