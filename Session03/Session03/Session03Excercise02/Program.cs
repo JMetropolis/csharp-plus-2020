@@ -23,16 +23,6 @@ namespace Session03Excercise02
                 Console.WriteLine("Värdet är " + number);
             }
 
-            int[] numArray = new int[inputArray.Length];
-
-            for (int i = 0; i < inputArray.Length; i++)
-            {
-                numArray[i] = int.Parse(inputArray[i]);
-                Console.WriteLine(numArray[i]);
-            }
-
-            
-
         }
     }
 }
